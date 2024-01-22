@@ -5,9 +5,9 @@
 - 🤓 Currently working on creating a awesame porfolio!
 
 ### 🛠  Tech Stack:
-- Language 📖:&ensp;Python 🐍, PySpark ✨
+- Language 📖:&ensp;Python 🐍, PySpark, Spark
 - Databases ⚾:&ensp;Postgresql 🐘, MySQL, Hive
 - IDE's 🧰:&ensp;Visual Studio, Cloudera Workbench 
-- VCS 🛂:&ensp;Git GitHub Bitbucket
+- VCS 🛂:&ensp;Git, GitHub, Bitbucket
 
 📫 How to reach me: www.linkedin.com/in/sergio-catalan-torralbo
