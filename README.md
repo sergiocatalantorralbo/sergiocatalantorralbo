@@ -10,4 +10,4 @@
 - IDE's 🧰:&ensp;Visual Studio, Cloudera Workbench 
 - VCS 🛂:&ensp;Git, GitHub, Bitbucket
 
-📫 How to reach me: www.linkedin.com/in/sergio-catalan-torralbo
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sergio-catalan-torralbo)
