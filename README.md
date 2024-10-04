@@ -7,7 +7,7 @@
 ### 🛠  Tech Stack:
 - Language 📖:&ensp;Python 🐍, PySpark, Spark
 - Databases ⚾:&ensp;Postgresql 🐘, MySQL, Hive
-- IDE's 🧰:&ensp;Visual Studio, Cloudera Workbench 
+- IDE's 🧰:&ensp;Visual Studio, DataBricks, Cloudera Workbench 
 - VCS 🛂:&ensp;Git, GitHub, Bitbucket
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sergio-catalan-torralbo)
